@@ -1,13 +1,6 @@
 <img
 	src="cover.png"
 />
-
-Hi! I'm AkzechKyla, a second-year college student pursuing BSCS
--------------------------------------------
-
-Currently, I'm actively engaged in learning how to code Discord bots and games using Python. The versatility and simplicity of Python have drawn me back to learning it again, and I'm enjoying every moment of my exploration into these exciting projects. It's a fantastic way for me to apply what I've learned and bring my passion for technology to life. But my journey doesn't stop at coding. I have a broader goal that I'm deeply committed to: I aspire to create my own visual novel game someday. To achieve this, I'm not only honing my coding skills but also delving into the world of digital art and wearing multiple hats to equip myself with the necessary tools and knowledge to turn my dream games into a reality.
-
-
 * 🌍 I'm based in Philippines
 * 🔭 I’m currently working on Moody Cat 🐈
 * 🌱 I’m currently learning Discord.py
