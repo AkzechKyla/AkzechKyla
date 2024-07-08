@@ -2,8 +2,8 @@
 	src="cover.png"
 />
 * 🌍 I'm based in Philippines
-* 🔭 I’m currently working on Moody Cat 🐈
-* 🌱 I’m currently learning Discord.py
+* 🔭 I’m currently working on NOTHING 🐈
+* 🌱 I’m currently learning NOTHING
 * 📫 How to reach me: [kflmorcillos@gmail.com](mailto:kflmorcillos@gmail.com)
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I love cats, potatoes, and reading! o(〃＾▽＾〃)o
