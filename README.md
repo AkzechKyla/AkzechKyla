@@ -3,7 +3,7 @@
 />
 * 🌍 I'm based in Philippines
 * 🔭 I’m currently working on NOTHING 🐈
-* 🌱 I’m currently learning NOTHING
+* 🌱 I’m currently learning ✨ The Holy Trinity of Web Development ✨
 * 📫 How to reach me: [kflmorcillos@gmail.com](mailto:kflmorcillos@gmail.com)
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I love cats, potatoes, and reading! o(〃＾▽＾〃)o
