@@ -7,6 +7,11 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://github.com/AkzechKyla/AkzechKyla.github.io">Check my personal portfolio here</a>
+</div>
+
+###
 
 <div align="center">
   <a href="https://discordapp.com/users/637931483218051102" target="_blank">
