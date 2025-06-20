@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-  <a href="https://github.com/AkzechKyla/AkzechKyla.github.io">Check my personal portfolio here</a>
+  <a href="akzechkyla.github.io/">Check my personal portfolio here</a>
 </div>
 
 ###
