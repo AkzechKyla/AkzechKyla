@@ -8,7 +8,9 @@
 
 ###
 <div align="center">
-  <a href="https://akzechkyla.github.io/" target="_blank">Check my personal portfolio here</a>
+  <a href="https://akzechkyla.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%2300bcd4?style=for-the-badge&logoColor=white&color=FF69B4" height="45" alt="portfolio badge"/>
+  </a>
 </div>
 
 ###
